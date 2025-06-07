@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350em" src="https://github.com/alexssmenezes/alexssmenezes/blob/main/assets/Banner.png?raw=true"/>
+  <img height="350em" src="https://github.com/alexssmenezes/assmenezes/blob/main/assets/Banner.png?raw=true"/>
 </div>
 
 <h3 align="center">
@@ -20,12 +20,12 @@
 
 <div><br /></div>
 
-<img src="https://github.com/alexssmenezes/alexssmenezes/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
+<img src="https://github.com/alexssmenezes/assmenezes/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
 
 
 ## &nbsp;Minhas Especialidades <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />
 
-<img src="https://github.com/alexssmenezes/alexssmenezes/blob/main/assets/stack.png?raw=true" />
+<img src="https://github.com/alexssmenezes/assmenezes/blob/main/assets/stack.png?raw=true" />
 
 <div><br /></div>
 
@@ -39,7 +39,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="30" height="30" /> Estou disposto a aprender e compartilhar conhecimentos e experiências na comunidade.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Mage%20Light%20Skin%20Tone.png" alt="Man Mage Light Skin Tone" width="30" height="30" /> **Vamos nessa! [Siga-me!](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Falexssmenezes)**
 
-<img src="https://github.com/devcaiada/devcaiada/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
+<img src="https://github.com/alexssmenezes/assmenezes/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="40" height="40" /> &nbsp;Repositórios em Destaque
 
@@ -93,7 +93,7 @@
 
 <div><br />
 
-<img src="https://github.com/alexssmenezes/alexssmenezes/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
+<img src="https://github.com/alexssmenezes/assmenezes/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
 
 <details align="left">
   <summary>Credits <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /></summary> 
